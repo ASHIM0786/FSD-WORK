@@ -1,5 +1,6 @@
 body{
-       background-color:darkgray    
+       background-color:darkgray;
+       border: 2px solid blueviolet;   
 }
 
 h1{
@@ -9,4 +10,11 @@ h1{
 h2{
     color:darkcyan;
     background-color: rgb(80, 255, 141);
+}
+P{
+    color:crimson;
+    
+}
+span{
+    color:darkblue;
 }
